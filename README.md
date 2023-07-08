@@ -1,2 +1,2 @@
 # Hello 👋
-I'm a student at Stony Brook University, interested in Distributed Systems and Machine Learning.
+I am a rising senior scheduled to graduate in December 2023, actively seeking new graduate positions. My passion lies in the realm of building and delving deeper into distributed systems, performance-critical systems, and cloud computing. I am particularly drawn to the challenges associated with designing and optimizing systems that operate at scale. Additionally, I am eager to explore the exciting world of real-world machine learning applications and learn how to leverage its potential to solve complex problems. I am seeking opportunities that will allow me to gain hands-on experience and further develop my skills in these areas.
